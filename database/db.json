@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "code",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "student": [
+    {
+      "id": "1",
+      "first_name": "Adebayo",
+      "last_name": "Gbolahan",
+      "gender": "Male",
+      "position": "Frontend Developer"
+    },
+    {
+      "id": "2",
+      "first_name": "Adebayo",
+      "last_name": "Shuqroh",
+      "gender": "female",
+      "position": "Backend Developer"
+    },
+    {
+      "id": "3",
+      "first_name": "Jimoh",
+      "last_name": "Ridwan",
+      "gender": "Male",
+      "position": "UI/UX Developer"
+    }
+  ],
+  "ticket": [
+    {
+      "id": "1",
+      "name": "Gbolahan",
+      "email": "gblissdura@gmail.com",
+      "ticket_type": "VVIP",
+      "ticket_number": "090200"
+    },
+    {
+      "id": "2",
+      "name": "Adebayo",
+      "email": "adebayo@gmail.com",
+      "ticket_type": "VIP",
+      "ticket_number": "092055"
+    },
+    {
+      "id": "3",
+      "name": "Tessa",
+      "email": "tessab@gmail.com",
+      "ticket_type": "Regular",
+      "ticket_number": "155422"
+    },
+    {
+      "id": "4",
+      "name": "Alysson",
+      "email": "alyy@gmail.com",
+      "ticket_type": "Plantinum",
+      "ticket_number": "200"
+    },
+    {
+      "id": "3068",
+      "name": "Adura",
+      "email": "adebayoahmed@gmail.com",
+      "ticket_type": "Gold",
+      "ticket_number": "52523"
+    },
+    {
+      "id": "ecc1",
+      "name": "demola",
+      "email": "demo@gmail.com",
+      "ticket_type": "Regular",
+      "ticket_number": "552243"
+    },
+    {
+      "id": "88fe",
+      "name": "ololade",
+      "email": "ololade@gmail.com",
+      "ticket_type": "Gold",
+      "ticket_number": "10794"
+    }
+  ]
+}
